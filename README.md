@@ -2,7 +2,7 @@
 
 ## 介绍
 
-使用 [MetingJS](https://github.com/metowolf/MetingJS)，在 [syzoj](https://github.com/syzoj/syzoj) 首页中中显示 [APlayer](https://github.com/MoePlayer/APlayer)！
+使用 [MetingJS](https://github.com/metowolf/MetingJS)，在 [syzoj](https://github.com/syzoj/syzoj) 首页中显示 [APlayer](https://github.com/MoePlayer/APlayer)！
 
 ## 安装步骤
 
